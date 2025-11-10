@@ -15,7 +15,7 @@
 
 ### 1. 데이터 수집 및 전처리
 - `HuggingFace`에서 제공하는 [`dair-ai/emotion`](https://huggingface.co/datasets/dair-ai/emotion) 데이터셋 사용
-- 총 **6가지 감정(label)**으로 구성
+- 총 6가지 감정(label)으로 구성
   - `sadness`, `joy`, `love`, `anger`, `fear`, `surprise`
 - 사전학습(pretraining)용으로:
   - 약 7,000건, 11,000건 규모로 커스텀 전처리 수행
